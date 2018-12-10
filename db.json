@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "Restaurants": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Jim's Deli & Restaurant",
+      "latitude": 42.3493693,
+      "longitude": -71.15399579999996,
+      "website": "http://jimsdeliboston.com",
+      "price": "$"
     }
   ],
   "profile": {
