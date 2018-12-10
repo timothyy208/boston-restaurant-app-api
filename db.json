@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Jim's Deli & Restaurant",
+      "type": "Deli",
       "latitude": 42.3493693,
       "longitude": -71.15399579999996,
       "website": "http://jimsdeliboston.com",
