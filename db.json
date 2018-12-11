@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Jim's Deli & Restaurant",
+      "address": "371 Washington St, Brighton, MA 02135",
       "type": "Deli",
       "latitude": 42.3493693,
       "longitude": -71.15399579999996,
