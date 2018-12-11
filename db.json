@@ -9,7 +9,16 @@
       "longitude": -71.15399579999996,
       "website": "http://jimsdeliboston.com",
       "price": "$"
-    }
+    },
+    {
+      "id": 2,
+      "name": "El Pelón Taqueria",
+      "address": "2197 Commonwealth Avenue, Boston, MA 02135",
+      "type": "Comfort Food",
+      "latitude": 42.3403061,
+      "longitude": -71.1664907,
+      "website": "http://elpelon.com",
+      "price": "$"
   ],
   "profile": {
     "name": "typicode"
