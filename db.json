@@ -19,6 +19,76 @@
       "longitude": -71.1664907,
       "website": "http://elpelon.com",
       "price": "$"
+    },
+    {
+      "id": 3,
+      "name": "Crazy Dough's Pizza",
+      "address": "2201 Commonwealth Avenue, Brighton, MA 02135",
+      "type": "Pizzeria",
+      "latitude": 42.3402844,
+      "longitude": -71.16660910000002,
+      "website": "http://crazydoughspizza.net",
+      "price": "$"
+    },
+    {
+      "id": 4,
+      "name": "Thai North",
+      "address": "433 Faneuil St, Brighton, MA 02135",
+      "type": "Thai Cuisine",
+      "latitude": 42.351266,
+      "longitude": -71.1683908,
+      "website": "http://thainorthcuisine.com",
+      "price": "$$"
+    },
+    {
+      "id": 5,
+      "name": "Flat Breads Cafe",
+      "address": "433 Faneuil St, Brighton, MA 02135",
+      "type": "Thai Cuisine",
+      "latitude": 42.3400627,
+      "longitude": -71.16725869999999,
+      "website": "http://doordash.com",
+      "price": "$"
+    },
+    {
+      "id": 6,
+      "name": "Twelve Hours",
+      "address": "559 Washington St, Brighton, MA 02135",
+      "type": "Asian Fusion",
+      "latitude": 42.3499568,
+      "longitude": -71.16428009999998,
+      "website": "http://places.singleplatform.com",
+      "price": "$"
+    },
+    {
+      "id": 7,
+      "name": "Greenhouse Kitchen",
+      "address": "435 Faneuil St, Brighton, MA 02135",
+      "type": "Italian",
+      "latitude": 42.3512109,
+      "longitude": -71.16840389999999,
+      "website": "http://greenhousekitchenma.com",
+      "price": "$"
+    },
+    {
+      "id": 8,
+      "name": "Los Amigos Taqueria",
+      "address": "366 Washington St, Boston, MA 02135",
+      "type": "Mexican",
+      "latitude": 42.3489906,
+      "longitude": -71.15381769999999,
+      "website": "https://www.grubhub.com/restaurant/los-amigos-366-washington-st-brighton/604515?utm_source=google&utm_medium=organic&utm_campaign=place-action-link",
+      "price": "$"
+    },
+    {
+      "id": 9,
+      "name": "Bangkok Bistro",
+      "address": "435 Faneuil St, Brighton, MA 02135",
+      "type": "Thai",
+      "latitude": 42.3493451,
+      "longitude": -71.15680399999997,
+      "website": "https://www.grubhub.com/restaurant/bangkok-bistro-433-washington-st-brighton-/283277?utm_source=google&utm_medium=organic&utm_campaign=place-action-link",
+      "price": "$"
     }
   ],
   "profile": {
