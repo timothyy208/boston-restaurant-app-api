@@ -89,7 +89,57 @@
       "longitude": -71.15680399999997,
       "website": "https://www.grubhub.com/restaurant/bangkok-bistro-433-washington-st-brighton-/283277?utm_source=google&utm_medium=organic&utm_campaign=place-action-link",
       "price": "$"
-    }
+    },
+    {
+      "id": 10,
+      "name": "Devlin's",
+      "address": "332 Washington St, Brighton, MA 02135",
+      "type": "Bar",
+      "latitude": 42.3488625,
+      "longitude": -71.15232479999997,
+      "website": "http://edevlins.com",
+      "price": "$$"
+    },
+    {
+      "id": 11,
+      "name": "Fiorella's Express",
+      "address": "2 Tremont St, Brighton, MA 02135",
+      "type": "Pizza Restaurant",
+      "latitude": 42.3504703,
+      "longitude": -71.16838139999999,
+      "website": "https://postmates.com/merchant/fiorellas-express-2-tremont-st?utm_medium=referral&utm_source=order-action&utm_campaign=order-action",
+      "price": "$$"
+    },
+    {
+      "id": 12,
+      "name": "Moogy's",
+      "address": "154 Chestnut Hill Ave, Boston, MA 02135",
+      "type": "Sandwhich Shop",
+      "latitude": 42.3415176,
+      "longitude": -71.15415339999998,
+      "website": "http://http://places.singleplatform.com/moogys-sandwich-shop/menu?ref=google",
+      "price": "$"
+    },
+    {
+      "id": 13,
+      "name": "Esperia Grill",
+      "address": "344 Washington St, Brighton, MA 02135",
+      "type": "Greek",
+      "latitude": 42.3488518,
+      "longitude": -71.15292640000001,
+      "website": "http://esperiagrill.net",
+      "price": "$$"
+    },
+    {
+      "id": 14,
+      "name": "Asahi",
+      "address": "418 Market St, Brighton, MA 02135",
+      "type": "Japanese",
+      "latitude": 42.3493804,
+      "longitude": -71.15314180000001,
+      "website": "http://bostonasahi.comt",
+      "price": "$"
+    },
   ],
   "profile": {
     "name": "typicode"
